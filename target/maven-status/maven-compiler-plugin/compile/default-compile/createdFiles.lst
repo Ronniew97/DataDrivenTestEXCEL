@@ -1,0 +1,5 @@
+utilities\ExcelReader.class
+utilities\BasePage.class
+utilities\BrowserFactory.class
+page\AddContactPage.class
+page\LoginPage.class
